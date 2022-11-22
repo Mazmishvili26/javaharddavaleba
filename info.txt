@@ -1,0 +1,12 @@
+help
+rashi dagexmaro?
+----
+date
+dges aris 16 noemberi
+----
+name
+me mqvia irakli
+----
+error
+Error 404 Not Found
+----
